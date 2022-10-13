@@ -4,7 +4,7 @@ body, html {
 
 .blue-backdrop {
     width: 100%;
-    background: linear-gradient(-50deg, #1D8FE1 30%, #19AAF0 50%, #1D8FE1 70%);
+    background: linear-gradient(-50deg, #1D8FE1 30%, #29BAFF 50%, #1D8FE1 70%);
     animation: flowing-animation 7.5s linear infinite;
     background-size: 1920px 100%;
 }

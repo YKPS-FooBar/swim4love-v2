@@ -1,0 +1,9 @@
+* {
+    font-family: 'DIN Pro', sans-serif;
+}
+
+@media (min-width: 1200px) {
+    .container{
+        max-width: 1040px;
+    }
+}
